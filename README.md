@@ -9,4 +9,7 @@ que inicializa el programa. Además de esto, utilizamos la clase preestablecida
 de la biblioteca de desarrollador JAVA "Random" para obtener los números 
 aleatorios necesarios para los cálculos de la aproximación a PI. 
 
+De nuevo, subo los archivos directamente desde mi escritorio ya que no consigo
+hacer funcionar las herramientas de github ni de java en mi terminal. 
+
 -Ignacio Etcheverria Mosquera
